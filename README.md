@@ -14,7 +14,7 @@
 A comprehensive biology question bank designed for **domain expert assessments, competitive exams, university preparation, and self-study**. Each question includes 4 options, the correct answer highlighted, and a detailed explanation of the concept.
 
 This resource is ideal for:
-- 🎯 **Domain Expert Assessments** (Innodata, Invisible, Appen, Scale AI, etc.)
+- 🎯 **Domain Expert Assessments** 
 - 🎓 **University Exams** (BSc, MSc Biology, Biotechnology, Microbiology)
 - 🏥 **Medical Entrance Preparation** (NEET, MCAT Biology sections)
 - 🔬 **Research Aptitude Tests**
@@ -113,12 +113,13 @@ You are free to share and adapt this material with appropriate credit.
 
 ## 👤 Author
 
-**[YOUR NAME]**
+**Purva Gohil**
 
 - 🔬 Biology Domain Expert | Biotechnology
 - 💼 Open to opportunities in: Domain Expert, Biology Annotator, Subject Matter Expert, Science Content Development
-- 📧 [YOUR EMAIL]
-- 🔗 [YOUR LINKEDIN URL]
+- 📧 purvagohil1706@gmail.com
+- 🔗 www.linkedin.com/in/purva-gohil-082877267
+
 
 ---
 
